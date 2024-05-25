@@ -10,9 +10,10 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
+	    	"upgradesTo": "Cavalry" ,
 		"uniques": ["Can move after attacking","[+50]% Strength <vs [Mounted] units>"],
 		"promotions": ["Charge","Great Generals II","Quick Study"],
-        "hurryCostModifier": 20,
+        	"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
 	{
@@ -26,14 +27,15 @@
 		"rangedStrength": 20,
 		"cost": 120,
 		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun" ,
 		"uniques": ["Can move after attacking","Can move immediately once bought"],
 		"promotions": ["Extended Range"],
 		"attackSound": "arrow"
 	},
   {
 		"name": "Raider",
-	    "replaces": "Musketman",
-	  "uniqueTo": "Montenegro",
+	    	"replaces": "Musketman",
+	  	"uniqueTo": "Montenegro",
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 25,
@@ -105,6 +107,7 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
 		"uniques": ["Can move after attacking","Founds a new city"],
                 "promotions": ["Great Generals II","Quick Study"],
 		"hurryCostModifier": 20,
@@ -167,6 +170,7 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
 		"uniques": ["Can move after attacking","[+10]% Strength <when defending>","[+25]% Strength <vs [Sword] units>"],
 		"attackSound": "horse"
 	},
