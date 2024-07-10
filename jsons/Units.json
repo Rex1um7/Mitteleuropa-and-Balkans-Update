@@ -107,7 +107,8 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
-		"upgradesTo": "Cavalry",
+		//"upgradesTo": "Cavalry",
+		"upgradesTo":"Landship",
 		"uniques": ["Can move after attacking","Founds a new city"],
                 "promotions": ["Great Generals II","Quick Study"],
 		"hurryCostModifier": 20,
@@ -126,7 +127,7 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"promotions": ["Formation I"],
 		"upgradesTo": "Anti-Tank Gun",
-		"obsoleteTech": "Combined Arms",
+		//"obsoleteTech": "Combined Arms",
 		"uniques": ["[+10]% Strength <when fighting in [Foreign Land] tiles>"],
 		"attackSound": "horse"
 	},
