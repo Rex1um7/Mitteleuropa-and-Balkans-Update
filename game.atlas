@@ -151,3 +151,51 @@ UnitIcons/Winged Hussar
   orig: 200, 200
   offset: 0, 0
   index: -1
+
+LeaderIcons.png
+size: 1934, 1291
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Leopold I
+  rotate: false
+  xy: 0, 469
+  size: 640, 822
+  orig: 640, 822
+  offset: 0, 0
+  index: -1
+LeaderIcons/Stefan I
+  rotate: false
+  xy: 0, 96
+  size: 317, 365
+  orig: 317, 365
+  offset: 0, 0
+  index: -1
+LeaderIcons/Herman von Salza
+  rotate: false
+  xy: 325, 0
+  size: 314, 461
+  orig: 314, 461
+  offset: 0, 0
+  index: -1
+LeaderIcons/Ottokar I
+  rotate: false
+  xy: 647, 137
+  size: 209, 284
+  orig: 209, 284
+  offset: 0, 0
+  index: -1
+LeaderIcons/Danilo I
+  rotate: false
+  xy: 647, 429
+  size: 640, 862
+  orig: 640, 862
+  offset: 0, 0
+  index: -1
+LeaderIcons/John III
+  rotate: false
+  xy: 1296, 419
+  size: 638, 872
+  orig: 638, 872
+  offset: 0, 0
+  index: -1
