@@ -16,6 +16,7 @@ Ottokar I: https://www.pinterest.com/pin/ottokar-i-of-bohemia-pemysl-otakar-i-11
 
 # Mitteleuropa-and-Balkans
 This is a compilation mod for Project Holy Roman Empire, Project Montenegro and Project Serbia.
+Some unit fix and portraits in this update version.
 
 v1.1: I've added in an update to Nirekin-sys's Teutonic Order mod.
 
